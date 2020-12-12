@@ -12,9 +12,9 @@ Create a database or upload my included Database and click next button<br>
 Upload your store logo<br>
 Enter your store details<br>
 Press Finish<br>
+Make sure to change the password and username on db.php file<br>
 Enjoy
 
-## Make sure to change the password and username on db.php gile
 
 
 ## Contributing
